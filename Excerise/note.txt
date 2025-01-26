@@ -1,0 +1,1 @@
+clt+shift+l  to select all the same var name once point to that var
